@@ -1,0 +1,7 @@
+{
+  "name": "EduCode.AI ",
+  "description": "An AI-powered programming learning platform offering interactive courses, automated grading, and smart assistance for students, teachers, and administrators.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
